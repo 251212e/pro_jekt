@@ -1,0 +1,3 @@
+C:/Users/mateo/Desktop/programowanie/c/pro_jekt/cmake-build-debug/CMakeFiles/pro_jekt.dir
+C:/Users/mateo/Desktop/programowanie/c/pro_jekt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mateo/Desktop/programowanie/c/pro_jekt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
